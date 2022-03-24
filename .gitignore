@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# another filter
+.vs
+assets/*
+tmp/*
+x64
